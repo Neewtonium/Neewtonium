@@ -67,6 +67,8 @@ Password recovery is not possible if forgotten.
 **🏗️ Future Improvements**
 
 🔹 Option to save the encrypted/decrypted PDF as a new file
+
 🔹 Support for batch processing multiple PDFs
+
 🔹 GUI version for a more user-friendly experience
 
