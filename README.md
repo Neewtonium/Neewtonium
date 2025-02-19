@@ -52,6 +52,9 @@ Run the script in the terminal:
 
 `python pdf_tool.py`
 
+you can also clone it
+`git clone` https://github.com/Neewtonium/pdf_encryption
+
 Follow the on-screen instructions to:
 
 *[1] Encrypt a PDF: Set a password to protect the file.*
