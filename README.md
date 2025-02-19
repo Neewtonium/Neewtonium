@@ -1,10 +1,10 @@
 
 
-*🔐 PDF Encryption & Decryption CLI Tool*
+**🔐 PDF Encryption & Decryption CLI Tool**
 
 A simple command-line tool to encrypt and decrypt PDF files using a password. This tool ensures document security by allowing users to set and remove passwords from PDFs.
 
-✨ Features
+**✨ Features**
 
 ✅ Encrypt PDFs with a password for security
 ✅ Decrypt PDFs by removing the password
@@ -12,9 +12,9 @@ A simple command-line tool to encrypt and decrypt PDF files using a password. Th
 ✅ Error handling for incorrect passwords and missing files
 ✅ Uses Python's pypdf and colorama for PDF processing and CLI styling
 
-🛠️ How It Works
+**🛠️ How It Works**
 
-1. Encryption:
+*1. Encryption:*
 
 The tool reads an existing PDF file.
 
@@ -24,7 +24,8 @@ It then encrypts the PDF and overwrites the original file with password protecti
 
 
 
-2. Decryption:
+
+*2. Decryption:*
 
 The tool prompts the user for the correct password.
 
@@ -35,40 +36,37 @@ The updated PDF replaces the original, now without a password.
 
 
 
-📦 Dependencies
+**📦 Dependencies**
 
 Ensure you have Python 3 installed, then install the required packages:
 
-pip install pypdf colorama
+`pip install pypdf colorama`
 
-🚀 Usage
+**🚀 Usage**
 
 Run the script in the terminal:
 
-python pdf_tool.py
+`python pdf_tool.py`
 
 Follow the on-screen instructions to:
 
-[1] Encrypt a PDF: Set a password to protect the file.
-
-[2] Decrypt a PDF: Enter the correct password to remove protection.
+*[1] Encrypt a PDF: Set a password to protect the file.*
 
 
-⚠️ Notes
+*[2] Decrypt a PDF: Enter the correct password to remove protection.*
+
+
+
+**⚠️ Notes**
 
 The script modifies the original file (no backup). Make a copy before encryption if needed.
 
 Password recovery is not possible if forgotten.
 
 
-🏗️ Future Improvements
+**🏗️ Future Improvements**
 
 🔹 Option to save the encrypted/decrypted PDF as a new file
 🔹 Support for batch processing multiple PDFs
 🔹 GUI version for a more user-friendly experience
-
-
----
-
-This README provides clear instructions and highlights key functionalities. You can tweak it based on any additional features you plan to add!
 
