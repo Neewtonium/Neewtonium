@@ -18,7 +18,7 @@ A simple command-line tool to encrypt and decrypt PDF files using a password. Th
 
 **🛠️ How It Works**
 
-*1. Encryption:*
+**1. Encryption:**
 
 The tool reads an existing PDF file.
 
@@ -29,7 +29,7 @@ It then encrypts the PDF and overwrites the original file with password protecti
 
 
 
-*2. Decryption:*
+**2. Decryption:**
 
 The tool prompts the user for the correct password.
 
