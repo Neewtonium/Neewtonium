@@ -7,9 +7,13 @@ A simple command-line tool to encrypt and decrypt PDF files using a password. Th
 **✨ Features**
 
 ✅ Encrypt PDFs with a password for security
+
 ✅ Decrypt PDFs by removing the password
+
 ✅ Simple and interactive CLI interface
+
 ✅ Error handling for incorrect passwords and missing files
+
 ✅ Uses Python's pypdf and colorama for PDF processing and CLI styling
 
 **🛠️ How It Works**
